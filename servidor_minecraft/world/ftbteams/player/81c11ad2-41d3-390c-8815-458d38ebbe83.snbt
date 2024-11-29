@@ -1,0 +1,17 @@
+{
+	id: "81c11ad2-41d3-390c-8815-458d38ebbe83"
+	type: "player"
+	player_name: "RexSaurus7GM"
+	ranks: {
+		81c11ad2-41d3-390c-8815-458d38ebbe83: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "RexSaurus7GM"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF7E"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

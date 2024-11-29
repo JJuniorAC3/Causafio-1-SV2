@@ -1,0 +1,17 @@
+# Configuración del plugin ModMindsPlugins
+# No es necesario cambiar ningun valor
+buttonDamageEnabled: true
+doorDamageEnabled: true
+chargedCreeperSpawnEnabled: false
+mobDamageMultiplierEnabled: false
+lavaDamageMultiplierEnabled: false
+fireDamageMultiplierEnabled: false
+fallDamageMultiplierEnabled: false
+enderPearlDamageEnabled: false
+eternalFireEnabled: true
+replaceGolemWithWardenEnabled: false
+replaceAncientDebrisEnabled: false
+fireResistanceRemovalEnabled: false
+waterBreathingRemovalEnabled: false
+replaceGolemWithWarden: false
+fireResistanceRemoval: false

@@ -1,0 +1,361 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyways, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|2|3465
+'1':
+  uniqueId: fef03e85-f9bb-4a51-aacf-f7f315d20274
+  world: world
+  x: -600
+  y: 141
+  z: -287
+  yaw: 185.4765
+  type: admin
+  name: Deditas
+  object:
+    type: villager
+    baby: false
+    profession: CARTOGRAPHER
+    villagerType: SWAMP
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_DEDITA_NARANJA
+        amount: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_DEDITA_AZUL
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITA_AMARILLA
+        amount: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_DEDITA_NARANJA
+        amount: 5
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITA_MORADA
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITA_AMARILLA
+        amount: 40
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITA_ROJA
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITA_MORADA
+        amount: 2
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITAMULTICOLOR
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITA_ROJA
+        amount: 5
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITA_VERDE
+        amount: 10
+  snapshots: []
+'4':
+  uniqueId: 3b4db275-d29e-41b8-888b-272ac1ac818b
+  world: world
+  x: -543
+  y: 138
+  z: -269
+  yaw: 95.73949
+  type: admin
+  name: RECOMPENSA
+  object:
+    type: llama
+    baby: false
+    carryingChest: true
+    color: BROWN
+    carpetColor: RED
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_DEDITA_AZUL
+        amount: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_DEDITA_CELESTE
+  snapshots: []
+'5':
+  uniqueId: 055fd89a-9799-4160-bd76-865b8788abca
+  world: world
+  x: -598
+  y: 141
+  z: -290
+  yaw: 0.3586696
+  type: admin
+  name: Cosas epicas
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_HEALINGSWORD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_DEDITA_AZUL
+        amount: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_DEDITA_NARANJA
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_ICE_SWORD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_DEDITA_AZUL
+        amount: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_DEDITA_NARANJA
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: CATACLYSM_THE_INCINERATOR
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITAMULTICOLOR
+        amount: 2
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: CATACLYSM_MEAT_SHREDDER
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITAMULTICOLOR
+        amount: 2
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: CATACLYSM_CURSED_BOW
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITAMULTICOLOR
+        amount: 2
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: CATACLYSM_BULWARK_OF_THE_FLAME
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITAMULTICOLOR
+        amount: 2
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MOFUS_BETTER_END__GUARDIAN_PROPELLER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAA/+NiYOBg4ExPTc7Od8zLzGVgYAAASEsKIBIAAAA=
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITAMULTICOLOR
+        amount: 3
+  snapshots: []
+'6':
+  uniqueId: 8dbc5fc1-d809-4f79-a6ef-6782c520c27b
+  world: world
+  x: -592
+  y: 141
+  z: -290
+  yaw: 2.591235
+  type: admin
+  name: Comercio
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_INGOT
+        amount: 20
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: COAL
+        amount: 5
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IMMERSIVE_PAINTINGS_PAINTING
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_DEDITA_AZUL
+        amount: 2
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IMMERSIVE_PAINTINGS_GRAFFITI
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_DEDITA_NARANJA
+        amount: 5
+  snapshots: []
+'7':
+  uniqueId: c8dfe93b-e443-4af1-be03-4e25b8a033db
+  world: world
+  x: -590
+  y: 141
+  z: -287
+  yaw: 3.9550064
+  type: admin
+  name: Totems u otros
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_NUTRI_TOTEM
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_DEDITA_AZUL
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DIAMOND
+        amount: 2
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_BUHO_TOTEM
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_DEDITA_AZUL
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_INGOT
+        amount: 10
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_CORAZON
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITA_ROJA
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITA_MORADA
+        amount: 2
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_CORAZON
+        amount: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_DEDITAMULTICOLOR
+  snapshots: []
+'8':
+  uniqueId: f1bb5635-1005-4a2d-82d6-0b3c1bb08ffb
+  world: world
+  x: -516
+  y: 141
+  z: -269
+  yaw: 90.254105
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_ALMADE_GOLEM
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_DEDITA_AZUL
+        amount: 10
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_ESPADA_INANIMADA
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MODMINDS_DEDITA_NARANJA
+        amount: 15
+  snapshots: []

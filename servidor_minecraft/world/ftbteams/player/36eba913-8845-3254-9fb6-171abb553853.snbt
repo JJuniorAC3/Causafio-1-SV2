@@ -1,0 +1,17 @@
+{
+	id: "36eba913-8845-3254-9fb6-171abb553853"
+	type: "player"
+	player_name: "sastco"
+	ranks: {
+		36eba913-8845-3254-9fb6-171abb553853: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "sastco"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59ECFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

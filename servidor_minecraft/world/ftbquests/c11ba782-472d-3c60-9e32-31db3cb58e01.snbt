@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "c11ba782472d3c609e3231db3cb58e01"
+	name: "Sadik_#c11ba782"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

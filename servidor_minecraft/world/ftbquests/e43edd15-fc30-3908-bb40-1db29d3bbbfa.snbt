@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "e43edd15fc303908bb401db29d3bbbfa"
+	name: "4zBrice#e43edd15"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

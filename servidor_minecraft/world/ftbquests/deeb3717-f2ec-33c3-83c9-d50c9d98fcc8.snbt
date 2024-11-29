@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "deeb3717f2ec33c383c9d50c9d98fcc8"
+	name: "Gambaty_T#deeb3717"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

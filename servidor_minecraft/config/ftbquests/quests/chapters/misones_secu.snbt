@@ -1,0 +1,252 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "misones_secu"
+	group: ""
+	id: "62245FB1A3080494"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0AB0274F991E1C05"
+			rewards: [
+				{
+					count: 5
+					id: "744D77976F253C15"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					id: "1B10D5AC3B1C3D6E"
+					item: "dedsafio3:dedita_amarilla"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 15L
+				id: "48D45829D44F6FD2"
+				item: { Count: 15, id: "minecraft:netherite_scrap" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			id: "20DAC2BBD1311E73"
+			rewards: [
+				{
+					count: 5
+					id: "39977768E3EADC8B"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0EC87489C729A26B"
+					item: "dedsafio3:dedita_amarilla"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6E1F1B3DF889583C"
+				item: {
+					Count: 1
+					id: "orcz:orcteeth_armor_armor_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["20DAC2BBD1311E73"]
+			id: "38D21D4370258048"
+			rewards: [
+				{
+					count: 2
+					id: "62AC087F62607AFD"
+					item: "dedsafio3:dedita_amarilla"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "2EA1C15C60CDB7F2"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1F9FB73EE4801E30"
+				item: {
+					Count: 1
+					id: "orcz:orcteeth_armor_armor_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["38D21D4370258048"]
+			id: "4628929A358C1308"
+			rewards: [
+				{
+					count: 2
+					id: "22A843E048A85B93"
+					item: "dedsafio3:dedita_amarilla"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "71F75BDC3B50B329"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4986E01AA1344670"
+				item: {
+					Count: 1
+					id: "orcz:orcteeth_armor_armor_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4628929A358C1308"]
+			id: "51D8CA64AEB68D55"
+			rewards: [
+				{
+					count: 2
+					id: "6064142C58E1F4B6"
+					item: "dedsafio3:dedita_morada"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "2DBF327D63AB587C"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4C299F7C9AEB31EB"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "78D17AE32680B077"
+				item: {
+					Count: 1
+					id: "orcz:orcteeth_armor_armor_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "3430D6E39976A54E"
+			rewards: [
+				{
+					count: 2
+					id: "3630E083F492C059"
+					item: "dedsafio3:dedita_morada"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7844B42C64693835"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2B89C4571710C147"
+				item: {
+					Count: 1
+					id: "orcz:orc_steel_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			id: "0C6B92E765A13412"
+			rewards: [
+				{
+					count: 4
+					id: "02AC0CB76A8F171E"
+					item: "dedsafio3:dedita_amarilla"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "5CCBFA29FE82580A"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5023E1567C6809A4"
+				item: {
+					Count: 1
+					id: "orcz:heavyorchammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 1.0d
+		}
+		{
+			id: "4BB9A9D31C3DC651"
+			rewards: [
+				{
+					count: 5
+					id: "204D69D6EAEAB126"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					id: "13F91954BBA29B9A"
+					item: "dedsafio3:dedita_amarilla"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 30L
+				id: "7CC037C85AF72149"
+				item: { Count: 30, id: "minecraft:gold_ingot" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			id: "2CB20639FCC81006"
+			tasks: [{
+				id: "2131F1DB8F9F7A98"
+				item: {
+					Count

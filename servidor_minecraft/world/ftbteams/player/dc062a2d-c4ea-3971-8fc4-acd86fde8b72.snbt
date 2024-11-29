@@ -1,0 +1,17 @@
+{
+	id: "dc062a2d-c4ea-3971-8fc4-acd86fde8b72"
+	type: "player"
+	player_name: "Lionel_947"
+	ranks: {
+		dc062a2d-c4ea-3971-8fc4-acd86fde8b72: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Lionel_947"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6EFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

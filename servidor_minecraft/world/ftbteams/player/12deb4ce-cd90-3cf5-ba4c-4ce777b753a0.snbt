@@ -1,0 +1,17 @@
+{
+	id: "12deb4ce-cd90-3cf5-ba4c-4ce777b753a0"
+	type: "player"
+	player_name: "YuLy12_S"
+	ranks: {
+		12deb4ce-cd90-3cf5-ba4c-4ce777b753a0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "YuLy12_S"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8FFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

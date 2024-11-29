@@ -1,0 +1,17 @@
+{
+	id: "b9d2c49f-4ad6-355c-b911-c2597897cab0"
+	type: "player"
+	player_name: "parceroski"
+	ranks: {
+		b9d2c49f-4ad6-355c-b911-c2597897cab0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "parceroski"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7F59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

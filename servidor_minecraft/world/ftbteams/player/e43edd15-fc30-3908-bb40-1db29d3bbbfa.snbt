@@ -1,0 +1,17 @@
+{
+	id: "e43edd15-fc30-3908-bb40-1db29d3bbbfa"
+	type: "player"
+	player_name: "4zBrice"
+	ranks: {
+		e43edd15-fc30-3908-bb40-1db29d3bbbfa: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "4zBrice"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59FA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

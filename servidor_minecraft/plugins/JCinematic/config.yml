@@ -1,0 +1,3 @@
+# Configuración del Plugin de Cinemáticas
+end-game-mode: SURVIVAL
+cinematic-speed: 1 # Velocidad de la cinemática, por defecto es 1

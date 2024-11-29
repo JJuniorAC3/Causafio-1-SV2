@@ -1,0 +1,17 @@
+{
+	id: "c11ba782-472d-3c60-9e32-31db3cb58e01"
+	type: "player"
+	player_name: "Sadik_"
+	ranks: {
+		c11ba782-472d-3c60-9e32-31db3cb58e01: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sadik_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6BFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

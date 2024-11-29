@@ -1,0 +1,17 @@
+{
+	id: "8ff7f385-dfb3-346e-92fb-43db688cbb34"
+	type: "player"
+	player_name: "JJuniorAC"
+	ranks: {
+		8ff7f385-dfb3-346e-92fb-43db688cbb34: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JJuniorAC"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6E59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

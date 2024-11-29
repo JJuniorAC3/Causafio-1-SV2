@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b9d2c49f4ad6355cb911c2597897cab0"
+	name: "parceroski#b9d2c49f"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

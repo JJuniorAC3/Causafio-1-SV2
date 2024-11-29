@@ -1,0 +1,17 @@
+{
+	id: "f2e0a8d1-cdbf-324d-be43-b7a798573747"
+	type: "player"
+	player_name: "IamS3bas7"
+	ranks: {
+		f2e0a8d1-cdbf-324d-be43-b7a798573747: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "IamS3bas7"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5993"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b8323ac358cb362bbf86c89614151475"
+	name: "Hampa_99#b8323ac3"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

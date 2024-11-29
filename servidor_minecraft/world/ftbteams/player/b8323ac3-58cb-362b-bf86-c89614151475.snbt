@@ -1,0 +1,17 @@
+{
+	id: "b8323ac3-58cb-362b-bf86-c89614151475"
+	type: "player"
+	player_name: "Hampa_99"
+	ranks: {
+		b8323ac3-58cb-362b-bf86-c89614151475: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Hampa_99"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5969FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

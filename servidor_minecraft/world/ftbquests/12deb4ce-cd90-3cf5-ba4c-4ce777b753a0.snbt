@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "12deb4cecd903cf5ba4c4ce777b753a0"
+	name: "YuLy12_S#12deb4ce"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

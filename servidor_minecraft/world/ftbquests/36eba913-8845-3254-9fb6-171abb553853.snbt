@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "36eba913884532549fb6171abb553853"
+	name: "sastco#36eba913"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

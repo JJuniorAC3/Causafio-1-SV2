@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.147.20.177
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732339799936
+  login: 1732339360406
+money: '0'
+last-account-name: parceroski
+logoutlocation:
+  world: 9dfcd3b2-94d2-414f-8272-435fb22e75e4
+  world-name: world
+  x: -582.9393092609091
+  y: 207.0
+  z: -290.908435776673
+  yaw: -16.48516845703125
+  pitch: 25.348482131958008
+lastlocation:
+  world: 9dfcd3b2-94d2-414f-8272-435fb22e75e4
+  world-name: world
+  x: -616.0943837227506
+  y: 190.25220334025371
+  z: -301.97636187690296
+  yaw: -95.53994750976562
+  pitch: 12.598459243774414

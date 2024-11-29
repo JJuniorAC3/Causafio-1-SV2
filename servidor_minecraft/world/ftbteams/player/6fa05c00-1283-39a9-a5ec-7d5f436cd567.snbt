@@ -1,0 +1,17 @@
+{
+	id: "6fa05c00-1283-39a9-a5ec-7d5f436cd567"
+	type: "player"
+	player_name: "iansoomvp"
+	ranks: {
+		6fa05c00-1283-39a9-a5ec-7d5f436cd567: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "iansoomvp"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6F59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,78 @@
+# Events Settings
+on-totem-use:
+  enabled: true
+  message: "&6&l{player} &r&eha consumido un tótem!"
+
+on-join:
+  enabled: true
+  message: "{r-color} &2{player} se ha conectado"
+
+on-leave:
+  enabled: true
+  message: "{r-off} &7{player} se ha desconectado"
+
+# Global Settings
+time-controller:
+  enabled: true
+  title: "Cierre en: {seconds} segundos"
+  open-server: "19:30"
+  close-server: "22:30"
+  bossbar-in: 300
+  kick:
+    enabled: true
+    bypass-permission: "dedsafio.no_kick"
+    message: "El servidor ha cerrado."
+
+death-system:
+  enabled: true
+  message: "&4&l{deathMessage}"
+  bypass-permission: "dedsafio.bypass_death"
+  immediate-respawn: true
+  animation:
+    enabled: true
+    position: "title"
+    show-to: "all" # all/player
+    sound: "dedsafio3:muerte"
+  ban-player:
+    enabled: true
+    after-seconds: 10
+    message: "&6&lGG"
+
+changes-settings:
+  enabled: true
+  bypass-permission: "dedsafio.bypass_changes"
+  changes:
+    # Deshabilita el acceso al Nether
+    disable-nether: true
+    # Siempre spawnearán creepers eléctricos
+    always-spawn-electric-creepers: false
+    # Si pulsas un botón, te hará insta-kill
+    button-instant-kill: false
+    # Los aldeanos no podrán reproducirse
+    villagers-cannot-breed: false
+    # Cada vez que una araña te pegue, te pondrá una telaraña en los pies
+    spider-webs-on-hit: false
+    # Al romper una telaraña aparecerán arañas venenosas
+    break-webs-spawn-poisonous-spiders: false
+    # Al usar una Ender Pearl, pierdes la mitad de tu vida
+    enderpearl-half-health: false
+    # Usar puertas te causa insta-kill
+    using-doors-causes-instant-kill: false
+    # Los piglins dropean pepitas de oro
+    piglins-drop-gold-nuggets: false
+    # Los golems de hierro fueron reemplazados por wardens
+    iron-golems-replaced-by-wardens: false
+
+unicodes:
+  announce_blue: "\uEA9C"
+  announce_color: "\uEA9D"
+  announce_cyan: "\uEA9E"
+  announce_green: "\uEA9F"
+  announce_off: "\uEAA0"
+  announce_orange: "\uEAA1"
+  announce_pink: "\uEAA2"
+  announce_purple: "\uEAA3"
+  announce_red: "\uEAA4"
+  announce_yellow: "\uEAA5"
+  white-screen: "\uEAA7"
+  revive-menu: "\uEAA8"

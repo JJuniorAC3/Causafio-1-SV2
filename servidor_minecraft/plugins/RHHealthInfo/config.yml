@@ -1,0 +1,56 @@
+##################################
+#                                #
+# Configuration for RHHealthInfo #
+#                                #
+##################################
+
+# Just replace the default info with your own. :)
+# Be careful! Make always sure to put an ' after and before the text!
+
+
+# General plugin output
+
+
+# [DEU] Plugin Name für den Chat
+# [ENG] Plugin prefix for the chat
+chat-prefix: '&8[&d&lRHHealthInfo&8] '
+
+# [DEU] Nachricht für den Reload Command
+# [ENG] Reload message
+reload-msg: '&7Die Config wurde &aneu geladen&7!'
+
+# You can also set the sound, that is played, when '/health reload' is executed. Please make sure to use the correct sound name, otherwise you will get a console error!
+# Official sound list: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+reload-playsound: 'BLOCK_NOTE_BLOCK_BIT'
+
+# [DEU] Dieser Text wird angezeigt, wenn /health eingegeben wird (Benutzung)
+# [ENG] Shows up, when /health is executed (usage)
+health-usage-msg:
+  - '&7- - - &8[&d&lRHHealthInfo&8]&7 - - -'
+  - ''
+  - ' &f/health &ereload&8&o* &8-&7 Die Konfiguration wird &eneu geladen'
+
+
+# Data input
+
+
+# [DEU] Soll der Herzen Indikator aktiviert werden?
+# [ENG] Should the heart indicator be activated?
+enable-indicator: true
+
+# [DEU] Wie soll der Herzen Indikator aussehen?
+# [ENG] How should the heart indicator look like?
+indicator-name: '&c❤'
+
+# [DEU] Trage hier die Welten ein, in denen die Lebensanzeige deaktiviert werden soll
+# [ENG] Input world names, in which the health indicator should be deactivated
+world-blacklist:
+  - ThisWorldIsNotAllowed
+
+
+# Message output
+
+
+# [DEU] Wenn der Spieler keine Berechtigung hat
+# [ENG] If the player has no permission
+no-permission-msg: '&7Dazu hast du &ckeinen &7Zugriff.'

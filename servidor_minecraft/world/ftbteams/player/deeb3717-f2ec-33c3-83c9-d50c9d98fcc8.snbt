@@ -1,0 +1,17 @@
+{
+	id: "deeb3717-f2ec-33c3-83c9-d50c9d98fcc8"
+	type: "player"
+	player_name: "Gambaty_T"
+	ranks: {
+		deeb3717-f2ec-33c3-83c9-d50c9d98fcc8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Gambaty_T"
+		"ftbteams:description": ""
+		"ftbteams:color": "#597DFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

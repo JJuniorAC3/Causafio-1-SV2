@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.195.84
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732498029134
+  login: 1732497962614
+money: '0'
+last-account-name: YuLy12_S
+lastlocation:
+  world: 9dfcd3b2-94d2-414f-8272-435fb22e75e4
+  world-name: world
+  x: -535.6294815086021
+  y: 203.0
+  z: -262.8707281797767
+  yaw: 21.0445556640625
+  pitch: 9.75700569152832
+logoutlocation:
+  world: 9dfcd3b2-94d2-414f-8272-435fb22e75e4
+  world-name: world
+  x: 25.448114604422347
+  y: 54.0
+  z: -593.1787256483829
+  yaw: -178.67030334472656
+  pitch: 11.443436622619629

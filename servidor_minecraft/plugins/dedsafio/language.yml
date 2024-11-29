@@ -1,0 +1,68 @@
+base-command-message:
+  no-permission: "&cYou don't have permission to use this command."
+  no-console: "&cThis command can only be executed by players."
+
+dedsafio-command-message:
+  help:
+    - "&7&m-------------------------"
+    - "&b&lDedsafio Commands"
+    - ""
+    - " &7▶ &3/dedsafio reload &7- &fReload the plugin."
+    - "&7&m-------------------------"
+  reload: "&aDedsafio has been reloaded!"
+
+animation-command-message:
+  help:
+    - "&7&m-------------------------"
+    - "&b&lAnimation Commands"
+    - ""
+    - " &7▶ &3/animation ruleta <title|subtitle|actionbar|sidebar> <color> <all/player> <text>"
+    - " &7▶ &3/animation muerte <title|subtitle|actionbar|sidebar> <all/player>"
+    - "&7&m-------------------------"
+  invalid-color:
+    - "&7&m-------------------------"
+    - " &7▶ &3Valid colors - &fgreen, blue, red, purple, orange, pink, cyan, yellow"
+    - "&7&m-------------------------"
+
+tp-command-message:
+  help:
+    - "&7&m-------------------------"
+    - "&b&lTeleportation Commands"
+    - ""
+    - " &7▶ &3/dtp <all/player> <x> <y> <z> <fade-in> <duration> <fade-out>"
+    - "&7&m-------------------------"
+  success: "&aAll the players have been teleported to the location!"
+
+ruleta:
+  green:
+    - "{r-green} &2&l▪ ɴᴏᴛɪғɪᴄᴀᴄɪᴏɴᴇs:"
+    - ""
+    - "&a{text}"
+  blue:
+    - "{r-blue} &1&l▪ NOTIFICACIONES:"
+    - ""
+    - "&9{text}"
+  red:
+    - "{r-red} &4&l▪ ᴍᴏᴍᴇɴᴛᴏ ʀᴇᴠɪʟ:"
+    - ""
+    - "&c{text}"
+  purple:
+    - "{r-purple} &5&l▪ ᴅᴇsᴄᴀʟɪғɪᴄᴀᴄɪᴏɴ:"
+    - ""
+    - "&d{text}"
+  orange:
+    - "{r-orange} &6&l▪ ᴄᴀᴍʙɪᴏ ᴅᴇ ᴅɪғɪᴄᴜʟᴛᴀᴅ:"
+    - ""
+    - "&e{text}"
+  pink:
+    - "{r-pink} &5&l▪ ᴍᴏᴍᴇɴᴛᴏ ɴᴜᴛʀɪᴀ:"
+    - ""
+    - "&d{text}"
+  cyan:
+    - "{r-cyan} &3&l▪ ᴍɪsɪᴏɴ ᴅɪᴀʀɪᴀ:"
+    - ""
+    - "&b{text}"
+  yellow:
+    - "{r-yellow} &e&l▪ ᴅᴇᴅᴄɪᴄʟᴏᴘᴇᴅɪᴀ:"
+    - ""
+    - "&e{text}"

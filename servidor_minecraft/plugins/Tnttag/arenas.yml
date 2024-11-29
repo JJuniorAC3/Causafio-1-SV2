@@ -1,0 +1,20 @@
+MN1:
+  startLocation:
+    world: MN
+    x: 47.41115696549927
+    y: 65.0
+    z: 59.990238953604944
+  lobbyLocation:
+    world: MN
+    x: 0.48667447685009724
+    y: 65.0625
+    z: 0.8239208449327295
+  maxPlayers: 2
+  minPlayers: 10
+  potionEffects:
+  - SPEED:2:SURVIVORS
+  - SPEED:3:TAGGERS
+  - HEALTH_BOOST:1:TAGGERS
+  - HEALTH_BOOST:1:SURVIVORS
+  roundDuration: 60
+  countdown: 30

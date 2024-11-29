@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.195.191
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732498068669
+  login: 1732497628631
+money: '0'
+last-account-name: 4zBrice
+logoutlocation:
+  world: 9dfcd3b2-94d2-414f-8272-435fb22e75e4
+  world-name: world
+  x: -68.30000001192093
+  y: 65.0
+  z: -418.30000001192093
+  yaw: 57.621849060058594
+  pitch: 26.250364303588867
+lastlocation:
+  world: 9dfcd3b2-94d2-414f-8272-435fb22e75e4
+  world-name: world
+  x: -530.7766012546386
+  y: 203.0
+  z: -273.3592092838581
+  yaw: -161.5399169921875
+  pitch: 23.84881019592285

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "81c11ad241d3390c8815458d38ebbe83"
+	name: "RexSaurus7GM#81c11ad2"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

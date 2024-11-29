@@ -1,0 +1,33 @@
+blue:
+  start: 57344
+  end: 57635
+cyan:
+  start: 57636
+  end: 57922
+green:
+  start: 57923
+  end: 58212
+muerte:
+  start: 58213
+  end: 58304
+nutria:
+  start: 58305
+  end: 58402
+orange:
+  start: 58403
+  end: 58689
+pink:
+  start: 58690
+  end: 58983
+purple:
+  start: 58984
+  end: 59277
+red:
+  start: 59278
+  end: 59572
+reviil:
+  start: 59573
+  end: 59771
+yellow:
+  start: 59772
+  end: 60059

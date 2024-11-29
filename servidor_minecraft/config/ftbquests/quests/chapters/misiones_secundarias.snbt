@@ -1,0 +1,88 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "misiones_secundarias"
+	group: ""
+	id: "1C0FA8CBF4EBB94B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4C2F04EDE0450121"
+			rewards: [
+				{
+					count: 5
+					id: "75C1BC27C724C4D7"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "2486CB7D796A4DE4"
+					item: "dedsafio3:dedita_amarilla"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 15L
+				id: "5D58E4005947A53A"
+				item: { Count: 15, id: "minecraft:netherite_scrap" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			id: "5E6023D5F4CBE49A"
+			rewards: [
+				{
+					count: 4
+					id: "107635017ABA431D"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "09006EEB858519E3"
+					item: "dedsafio3:dedita_amarilla"
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 30L
+				id: "0D119F36957C2627"
+				item: { Count: 30, id: "minecraft:gold_ingot" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			id: "4F31F7D7ECC8EC34"
+			rewards: [
+				{
+					count: 10
+					id: "0C720925178F42E1"
+					item: "dedsafio3:dedita_amarilla"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "6BAFC778470FB4DA"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: "minecraft:netherrack"
+				id: "5CBB22D149E75273"
+				title: "Visita el nether"
+				type: "dimension"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+	]
+	title: "Misiones secundarias"
+}

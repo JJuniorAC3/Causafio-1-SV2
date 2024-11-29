@@ -1,0 +1,185 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "misiones_de_mobs"
+	group: ""
+	id: "1A12CBE679461543"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "00A82B15AB2CFF74"
+			rewards: [
+				{
+					count: 3
+					id: "55D7856F22F68B6F"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "6DD82C7A03ABB525"
+					item: "dedsafio3:dedita_amarilla"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "minecraft:zombie_head"
+				id: "61C3C768AD6DE765"
+				title: "Mata a 20 zombies"
+				type: "kill"
+				value: 20L
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			id: "540935F638806D90"
+			rewards: [
+				{
+					count: 3
+					id: "0184327534587D01"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "4A5DB8A856FB1F72"
+					item: "dedsafio3:dedita_amarilla"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:spider"
+				icon: "minecraft:cobweb"
+				id: "64CE9B19B00729D1"
+				title: "mata a 20 arañas"
+				type: "kill"
+				value: 20L
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			id: "65015CB1236EA3EC"
+			rewards: [
+				{
+					count: 5
+					id: "7CFC0283550DA9DD"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1D275991857348AC"
+					item: "dedsafio3:dedita_roja"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "4E42EFE006277335"
+					item: "dedsafio3:dedita_morada"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "dedsafio3:bomba_r_voladora"
+				icon: "dedsafio3:bomba_r_voladora_spawn_egg"
+				id: "33191A0B29C10062"
+				title: "Mata 5 bombas"
+				type: "kill"
+				value: 5L
+			}]
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			id: "471D74957E6EDE45"
+			rewards: [
+				{
+					count: 4
+					id: "26721754CC7E2B10"
+					item: "dedsafio3:dedita_amarilla"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7E2E261C34B2F756"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "modminds:sapito"
+				icon: "modminds:ojo_de_sapo"
+				id: "4D9F8E0A42F15A68"
+				title: "Mata 10 sapitos"
+				type: "kill"
+				value: 10L
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			id: "00EF5A70C311AF4F"
+			rewards: [
+				{
+					count: 4
+					id: "7B2E8E34F43A6EAC"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "1FD447026AC6C9D5"
+					item: "dedsafio3:dedita_amarilla"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "handcrafted:blaze_trophy"
+				id: "60D12E62A030BE2F"
+				title: "Mata 10 blazes"
+				type: "kill"
+				value: 10L
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			id: "2947206FC42EFF2F"
+			rewards: [
+				{
+					count: 4
+					id: "0A96AA7AFBFAC6B8"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "7F4CA11BD1FB2CEF"
+					item: "dedsafio3:dedita_morada"
+					type: "item"
+				}
+				{
+					id: "58425D7D95C9AF5E"
+					item: "dedsafio3:dedita_roja"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "alexscaves:nucleeper"
+				icon: "minecraft:skeleton_skull"
+				id: "5D6DEE2C80266BB1"
+				title: "Mata 5 Creepers Nucleares"
+				type: "kill"
+				value: 5L
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+	]
+	title: "Misiones de mobs"
+}

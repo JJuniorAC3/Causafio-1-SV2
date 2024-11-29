@@ -1,0 +1,11 @@
+f2e0a8d1-cdbf-324d-be43-b7a798573747:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Cuchara
+        de resurrección"}],"text":""}'
+      custom-model-data: 2

@@ -1,0 +1,15 @@
+{
+	id: "bd8b9c72-6be6-331d-a085-f4c7ad8a0aa7"
+	type: "player"
+	player_name: "gama042000"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "gama042000"
+		"ftbteams:description": ""
+		"ftbteams:color": "#29FF04"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

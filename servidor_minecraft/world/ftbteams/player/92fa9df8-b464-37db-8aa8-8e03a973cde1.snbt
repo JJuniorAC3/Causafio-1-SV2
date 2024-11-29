@@ -1,0 +1,17 @@
+{
+	id: "92fa9df8-b464-37db-8aa8-8e03a973cde1"
+	type: "player"
+	player_name: "Gamermaurs"
+	ranks: {
+		92fa9df8-b464-37db-8aa8-8e03a973cde1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Gamermaurs"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59FB"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

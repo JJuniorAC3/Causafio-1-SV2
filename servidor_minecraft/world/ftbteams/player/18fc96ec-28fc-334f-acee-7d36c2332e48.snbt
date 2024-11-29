@@ -1,0 +1,17 @@
+{
+	id: "18fc96ec-28fc-334f-acee-7d36c2332e48"
+	type: "player"
+	player_name: "DoctoRSanwich"
+	ranks: {
+		18fc96ec-28fc-334f-acee-7d36c2332e48: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DoctoRSanwich"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F2FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

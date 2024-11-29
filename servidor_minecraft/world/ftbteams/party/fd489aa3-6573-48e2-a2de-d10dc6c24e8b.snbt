@@ -1,0 +1,17 @@
+{
+	id: "fd489aa3-6573-48e2-a2de-d10dc6c24e8b"
+	type: "party"
+	owner: "bd8b9c72-6be6-331d-a085-f4c7ad8a0aa7"
+	ranks: {
+		bd8b9c72-6be6-331d-a085-f4c7ad8a0aa7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "team trihard"
+		"ftbteams:description": "tonotos "
+		"ftbteams:color": "#29FF04"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1732584681354L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"gama042000\"}]}" }]
+	extra: { }
+}

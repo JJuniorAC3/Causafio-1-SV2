@@ -1,0 +1,48 @@
+bd8b9c72-6be6-331d-a085-f4c7ad8a0aa7:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: IRON_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Damage: 14
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: IRON_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Damage: 14
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: CHICKEN
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: EGG
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: WHEAT_SEEDS
+    amount: 64
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: WOODEN_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 15
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: MODMINDS_DEDITA_NARANJA
+    amount: 5
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3465
+    type: MODMINDS_DEDITA_AZUL
+    amount: 5

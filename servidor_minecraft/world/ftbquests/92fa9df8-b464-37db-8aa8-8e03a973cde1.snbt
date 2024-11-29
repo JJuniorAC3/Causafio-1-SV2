@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "92fa9df8b46437db8aa88e03a973cde1"
+	name: "Gamermaurs#92fa9df8"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

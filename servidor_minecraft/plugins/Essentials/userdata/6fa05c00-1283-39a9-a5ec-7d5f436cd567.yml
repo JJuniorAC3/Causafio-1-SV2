@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.195.98
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732595742569
+  login: 1732595196894
+money: '0'
+last-account-name: iansoomvp
+lastlocation:
+  world: 9dfcd3b2-94d2-414f-8272-435fb22e75e4
+  world-name: world
+  x: -715.2390875142005
+  y: 63.0
+  z: -224.72968277244203
+  yaw: 114.1053466796875
+  pitch: 5.393755912780762
+logoutlocation:
+  world: 9dfcd3b2-94d2-414f-8272-435fb22e75e4
+  world-name: world
+  x: -953.1234848898006
+  y: 72.5
+  z: 103.01229149262907
+  yaw: 136.20513916015625
+  pitch: 54.54405212402344
